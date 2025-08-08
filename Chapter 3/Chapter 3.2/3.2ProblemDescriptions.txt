@@ -1,0 +1,19 @@
+1. Write a function square(x) that returns the square of a number.
+
+2. Create a function greet(name, greeting='Hello') that prints a custom greeting. If no greeting is provided, it should default to "Hello".
+
+3. Define a function min_max_avg(numbers) that takes a list of numbers and returns a tuple with the minimum, maximum, and average.
+
+4. Write a function no_duplicates(lst) that returns a new list with all duplicate elements removed.
+
+5. Create a lambda function is_even that returns True if a number is even, False otherwise.
+
+6. Write a function apply_twice(func, value) that applies a function func to value two times and returns the result.
+
+7. Write a function total_sum(*args) that returns the sum of all numbers passed as arguments.
+
+8. Create a function print_info(**kwargs) that prints all keyword arguments in the form key: value.
+
+9. Create a function word_count(text) that returns a dictionary mapping each word in a string to its frequency.
+
+10. Write a function outer(x) that defines an inner function inner(y) returning x + y, and returns the result of calling inner(10).
