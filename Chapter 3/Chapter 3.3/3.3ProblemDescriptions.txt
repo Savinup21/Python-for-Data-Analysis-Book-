@@ -1,0 +1,19 @@
+1. Create a new text file named sample.txt and write the text "Hello, World!" into it.
+
+2. Read the contents of sample.txt and print them to the console.
+
+3. Append the line "This is an extra line." to sample.txt without overwriting existing content.
+
+4. Use a with statement to open sample.txt and read all lines into a list. Print the list.
+
+5. Check if the file sample.txt exists in the current directory using the os module.
+
+6. Use the os module to print the current working directory.
+
+7. Create a new folder named test_folder in the current directory using the os module.
+
+8. List all files and folders in the current directory using the os module.
+
+9. Rename sample.txt to renamed_sample.txt using the os module.
+
+10. Delete the file renamed_sample.txt and remove the folder test_folder using the os module.
