@@ -1,0 +1,9 @@
+1 Create a NumPy array with values [1, 4, 9, 16, 25] and use np.sqrt to compute the square root of each element.
+
+2. Given arr = np.array([1.2, 3.8, -2.5, -4.9]), use np.floor to round each element down.
+
+3. Create two arrays: arr1 = [1, 2, 3] and arr2 = [4, 5, 6]. Use np.add to add them element-wise.
+
+4. Using arr1 and arr2, use np.maximum to get the element-wise maximum values.
+
+5. Create a NumPy array with 5 values between 0 and 2π and use np.sin to compute their sine values.
