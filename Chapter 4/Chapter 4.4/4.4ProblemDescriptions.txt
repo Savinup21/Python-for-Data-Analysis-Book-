@@ -1,0 +1,21 @@
+1. Create a NumPy array with values from 0 to 9. Use boolean indexing to select all numbers greater than 5.
+
+2. Given arr = np.array([10, 20, 30, 40, 50]), create a boolean mask for elements greater than or equal to 30.
+
+3. Using the same arr, replace all values greater than or equal to 30 with 0.
+#4. Create a NumPy array from 1 to 12, reshape it into a 3x4 matrix, and select the second row.
+
+5. Select the first two columns from the 3x4 matrix created in question 4.
+
+6. Create a 5x5 NumPy array of random integers between 1 and 100.#    Select all elements that are divisible by 3.
+
+7. Create an array with values from 0 to 19.
+    Use fancy indexing to select elements at positions [1, 5, 10, 15].
+
+8. Given arr = np.array([1, 2, 3, 4, 5]),
+    set the first three elements to -1 using slicing.
+
+9. Create a 4x4 identity matrix and change the value in the bottom-right corner to 99.
+
+10. Create two arrays, arr1 = np.array([1, 2, 3]) and arr2 = np.array([4, 5, 6]).
+     Stack them vertically and horizontally using np.vstack() and np.hstack().
