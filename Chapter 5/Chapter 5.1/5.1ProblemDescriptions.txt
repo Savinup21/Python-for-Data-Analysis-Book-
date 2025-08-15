@@ -1,0 +1,25 @@
+1. Create a pandas Series from a Python list [10, 20, 30, 40] and print it.
+
+2. Create a pandas Series with custom index labels ['a', 'b', 'c', 'd'] for values [10, 20, 30, 40].
+
+3. Given a Series s = pd.Series([5, 10, 15, 20], index=['w', 'x', 'y', 'z']),
+    select the value associated with index 'y'.
+
+4. Using the same Series s, select all values greater than 10.
+
+5. Create a Series from a dictionary:
+    data = {'apples': 3, 'bananas': 5, 'oranges': 2}
+    and print the number of apples.
+
+6. Given a Series of temperatures: pd.Series([72, 75, 68, 70], index=['Mon', 'Tue', 'Wed', 'Thu']),
+    change the temperature for 'Wed' to 71.
+
+7. Create a Series with NaN values and use isnull() and notnull() to identify missing data.
+
+8. Create a Series from a NumPy array of 5 random integers between 1 and 100.
+
+9. Given a Series s = pd.Series([1, 2, 3, 4], index=['a', 'b', 'c', 'd']),
+    multiply all values by 10.
+
+10. Create two Series with overlapping and non-overlapping indices and add them together.
+     Observe how pandas handles missing values in the result.
