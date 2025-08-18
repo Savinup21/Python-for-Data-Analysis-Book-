@@ -1,0 +1,21 @@
+1. Create a DataFrame from a dictionary:
+   data = {'apples': [3, 2, 0, 1], 'oranges': [0, 3, 7, 2]}
+   with index=['June', 'Robert', 'Lily', 'David'].
+
+2. Print the first two rows of the DataFrame using head().
+
+3. Select the 'apples' column from the DataFrame in two different ways.
+
+4. Select rows where the 'oranges' column value is greater than 2.
+
+5. Add a new column 'bananas' with values [1, 2, 3, 4].
+
+6. Delete the 'bananas' column from the DataFrame.
+
+7. Select multiple columns: ['apples', 'oranges'] from the DataFrame.
+
+8. Use loc to select the row for 'Lily' and the columns 'apples' and 'oranges'.
+
+9. Use iloc to select the first two rows and the first column.
+
+10. Transpose the DataFrame (rows become columns and columns become rows).
