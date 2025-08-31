@@ -1,0 +1,19 @@
+1. Create a DataFrame with 100 random integers between 1 and 100. Use .mean(), .median(), and .std() to compute basic descriptive statistics.
+
+2. Load the tips dataset from seaborn (sns.load_dataset("tips")). Compute the mean, median, min, and max for the total_bill column.
+
+3. Using the tips dataset, group by day and calculate the average tip per day.
+
+4. Generate a random DataFrame with two numeric columns (A, B) and one categorical column (Group with values "X", "Y"). Compute the mean of A and B for each group.
+
+5. For the tips dataset, find the day with the highest median total_bill.
+
+6. Create a Series with 20 values including some NaNs. Use .sum(), .mean(), and .describe() with and without skipna=False. Compare the results.
+
+7. For the tips dataset, use .describe() on both numeric and categorical columns. What’s the difference in the output?
+
+8. Create a DataFrame with three numeric columns. Use .quantile([0.25, 0.5, 0.75]) to compute quartiles for each column.
+
+9. Load the tips dataset again and compute the standard deviation of tip grouped by smoker.
+
+10. Write a one-liner to compute the correlation between total_bill and tip in the tips dataset.
